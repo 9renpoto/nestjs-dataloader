@@ -680,9 +680,9 @@
     ts-morph "^7.0.0"
 
 "@nestjs/platform-express@^7.0.7":
-  version "7.3.2"
-  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-7.3.2.tgz#82175751e2d776e854efe48316efa0564bb36352"
-  integrity sha512-HxfVxAuqIe4vMt+dVyhq7iMIe3RN8PLIo2n1CWW2Xla5MRCUjXJww8clJtVk2AUwnjzxs77h9DR1D803gzd+zQ==
+  version "7.4.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-7.4.1.tgz#dc36fa6525419bf2dcd6a1851aa3cd65a850652a"
+  integrity sha512-ecAj4u/BsN9QDIiDVECNBrKzyWp9wkKu4XzNVZlSV8QMl8zkhgZsvQoHRTnW+OgWQPUIB8QakWnoW+O4H4cpyg==
   dependencies:
     body-parser "1.19.0"
     cors "2.8.5"
@@ -1611,7 +1611,7 @@ apollo-server-caching@^0.5.1, apollo-server-caching@^0.5.2:
   dependencies:
     lru-cache "^5.0.0"
 
-apollo-server-core@^2.11.0, apollo-server-core@^2.16.0, apollo-server-core@^2.16.1:
+apollo-server-core@^2.11.0, apollo-server-core@^2.16.1:
   version "2.16.1"
   resolved "https://registry.yarnpkg.com/apollo-server-core/-/apollo-server-core-2.16.1.tgz#5b5b8245ab9c0cb6c2367ec19ab855dea6ccea3a"
   integrity sha512-nuwn5ZBbmzPwDetb3FgiFFJlNK7ZBFg8kis/raymrjd3eBGdNcOyMTJDl6J9673X9Xqp+dXQmFYDW/G3G8S1YA==
