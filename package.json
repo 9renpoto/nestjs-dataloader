@@ -44,7 +44,7 @@
     "graphql": "^14.1.1",
     "jest": "^25.2.7",
     "reflect-metadata": "^0.1.12",
-    "sqlite3": "^4.1.1",
+    "sqlite3": "^5.0.2",
     "ts-jest": "^25.3.1",
     "typeorm": "^0.2.24",
     "typeorm-factory": "^0.0.14",
